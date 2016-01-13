@@ -1,4 +1,4 @@
-## comment
+
 def a():
     b()
 
